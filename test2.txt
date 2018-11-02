@@ -1,0 +1,7 @@
+测试一下中文
+这是一个测试文件，本地生成。
+# touch test2.txt
+# nano 编辑
+#git add test2.txt // 存入暂存区
+#git commit 提交本地git
+#git push 文件名 // 推送至github相关仓库
