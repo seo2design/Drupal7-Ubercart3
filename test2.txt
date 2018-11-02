@@ -4,4 +4,5 @@
 # nano 编辑
 #git add test2.txt // 存入暂存区
 #git commit -m ‘文件的说明’
-#git push 文件名 // 推送至github相关仓库
+#错误（git push 文件名 // 推送至github相关仓库）
+#git push //推送至github相关仓库
